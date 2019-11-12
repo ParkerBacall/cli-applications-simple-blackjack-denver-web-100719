@@ -62,6 +62,7 @@ end
 def runner(card_total)
   while card_total < 21
     welcome
+    initial_round
 
 
 
