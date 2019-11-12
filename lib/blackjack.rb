@@ -60,5 +60,5 @@ end
 #####################################################
 
 def runner(card_total)
-  while
+  while card_total < 21
 end
